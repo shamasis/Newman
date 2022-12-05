@@ -34,7 +34,7 @@
     "commander": "2.x.x",
     "underscore": "1.x.x",
     "jsface": "2.2.x",
-    "request": "2.40.0",
+    "request": "2.73.0",
     "unirest": "*",
     "postman_validator" : "0.0.4",
     "node-uuid" : "1.4.1",
